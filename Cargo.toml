@@ -1,0 +1,7 @@
+[package]
+name = "rhai-test-project"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rhai = "1.19.0"
